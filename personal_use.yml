@@ -1,0 +1,12 @@
+# DOMAIN-SUFFIX,
+payload:
+  # steam
+  - DOMAIN-SUFFIX,steamserver.net
+
+  # python镜像地址
+  - DOMAIN-SUFFIX,tsinghua.edu.cn
+
+  #科雷
+  - DOMAIN-SUFFIX,kleientertainment.com
+  - DOMAIN-SUFFIX,klei.com
+  
