@@ -2,6 +2,7 @@
 payload:
   # steam
   - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steamusercontent
 
   # python镜像地址
   - DOMAIN-SUFFIX,tsinghua.edu.cn
