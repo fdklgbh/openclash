@@ -10,7 +10,7 @@ payload:
   - DOMAIN,files.pythonhosted.org
 
   # docker
-  -DOMAIN,hub.1panel.dev
+  - DOMAIN,hub.1panel.dev
   
   #科雷
   - DOMAIN-SUFFIX,kleientertainment.com
