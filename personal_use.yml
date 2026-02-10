@@ -26,4 +26,4 @@ payload:
   - DOMAIN,hub2.nat.tf
 
   #ubuntu
-  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN,releases.ubuntu.com
