@@ -24,3 +24,6 @@ payload:
   - DOMAIN,docker.xuanyuan.me
   - DOMAIN,hub1.nat.tf
   - DOMAIN,hub2.nat.tf
+
+  #ubuntu
+  - DOMAIN-SUFFIX,ubuntu.com
