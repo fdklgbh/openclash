@@ -26,6 +26,7 @@ payload:
   - DOMAIN,hub2.nat.tf
   - DOMAIN,hub.1panel.dev
   - DOMAIN,registry-1.docker.io
+  - DOMAIN,production.cloudflare.docker.com
 
   #ubuntu
   - DOMAIN,releases.ubuntu.com
