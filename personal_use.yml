@@ -46,4 +46,4 @@ payload:
   - DOMAIN,releases.ubuntu.com
 
   - DOMAIN,ph.limblimb.com
-  - DOMAIN,linuxdo.org
+  - DOMAIN-SUFFIX,linuxdo.org
