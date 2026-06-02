@@ -42,6 +42,7 @@ payload:
   - DOMAIN,proxy.vvvv.ee
   - DOMAIN,image-mirror.r2.daocloud.vip
   - DOMAIN,dockerproxy.net
+  - DOMAIN-SUFFIX,gh-proxy.org
   #ubuntu
   - DOMAIN,releases.ubuntu.com
 
