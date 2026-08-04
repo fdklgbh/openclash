@@ -50,3 +50,5 @@ payload:
   - DOMAIN,ph.limblimb.com
   - DOMAIN-SUFFIX,linuxdo.org
   - DOMAIN-SUFFIX,resend.com
+  # 检测代理,需要走直连
+  - DOMAIN-SUFFIX,hidencloud.com
