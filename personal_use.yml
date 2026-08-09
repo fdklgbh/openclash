@@ -52,3 +52,5 @@ payload:
   - DOMAIN-SUFFIX,resend.com
   # 检测代理,需要走直连
   - DOMAIN-SUFFIX,hidencloud.com
+  # hf 镜像网站
+  - DOMAIN-SUFFIX,hf-mirror.com
