@@ -55,3 +55,4 @@ payload:
   # hf 镜像网站
   - DOMAIN-SUFFIX,hf-mirror.com
   - DOMAIN,us.aws.cdn.hf.co
+  - DOMAIN,xethub.hf.co
